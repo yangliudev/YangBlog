@@ -27,9 +27,9 @@ module.exports = {
         icon: "reco-home",
       },
       {
-        text: "TimeLine",
-        link: "/timeline/",
-        icon: "reco-date",
+        text: "About",
+        link: "/about/",
+        icon: "reco-account",
       },
       {
         text: "Contact",
