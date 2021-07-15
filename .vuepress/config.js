@@ -32,22 +32,12 @@ module.exports = {
         icon: "reco-date",
       },
       {
-        text: "Docs",
-        icon: "reco-message",
-        items: [
-          {
-            text: "vuepress-reco",
-            link: "/docs/theme-reco/",
-          },
-        ],
-      },
-      {
         text: "Contact",
         icon: "reco-message",
         items: [
           {
             text: "GitHub",
-            link: "https://github.com/recoluan",
+            link: "https://github.com/yangliudev",
             icon: "reco-github",
           },
         ],
@@ -86,7 +76,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
-    author: "Yang",
+    author: "Yang Liu",
     authorAvatar: "/avatar.jpg",
     record: "",
     startYear: "2021",
