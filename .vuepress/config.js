@@ -57,27 +57,11 @@ module.exports = {
         text: "Tag",
       },
     },
-    // friendLink: [
-    //   {
-    //     title: "午后南杂",
-    //     desc: "Enjoy when you can, and endure when you must.",
-    //     email: "1156743527@qq.com",
-    //     link: "https://www.recoluan.com",
-    //   },
-    //   {
-    //     title: "Welcome to Yang's Blog",
-    //     desc: "Mobile and Web Developer",
-    //     avatar:
-    //       "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-    //     link: "https://vuepress-theme-reco.recoluan.com",
-    //   },
-    // ],
-    // logo: "/logo.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
     author: "Yang Liu",
-    authorAvatar: "/avatar.jpg",
+    authorAvatar: "/avatar.png",
     record: "",
     startYear: "2021",
   },
