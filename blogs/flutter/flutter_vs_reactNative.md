@@ -3,7 +3,6 @@ title: Flutter vs React Native
 date: 2021-07-16
 tags:
   - Flutter
-  - Dart
   - React Native
 categories:
   - Flutter
