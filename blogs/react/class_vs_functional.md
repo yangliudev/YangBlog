@@ -4,6 +4,7 @@ date: 2021-07-15
 tags:
   - React
   - React Native
+  - JavaScript
 categories:
   - React
 ---
