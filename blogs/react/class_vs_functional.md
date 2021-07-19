@@ -7,6 +7,7 @@ tags:
   - JavaScript
 categories:
   - React
+  - React Native
 ---
 
 ## Functional Components
@@ -131,4 +132,4 @@ export default App;
 
 Functional components and class components both have their own advantages and disadvantages. Functional components are much shorter and simpler to write improving readibility and speeding up development. It is still relatively new at the moment however, but React is taking great strides promoting it and encouraging users to adopt.
 
-Class components won't be going away anytime soon and most legacy code bases will be written with class components. If you are interested in React/React Native development I believe it is vital to learn both.
+Class components won't be going away anytime soon and most legacy code bases are written with class components. If you are interested in React/React Native development I believe it is vital to learn both.
